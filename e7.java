@@ -16,6 +16,8 @@ public class e7 {
         }
         System.out.println("\n");
     }
+
+    
 /*     static public void vibora(int n){
         v[  1  ][  1  ] = 1;
 

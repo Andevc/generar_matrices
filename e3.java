@@ -35,6 +35,8 @@ public class e3 {
         for(i = n; i >= k ; i--){v[i][j] = c ; c = c + 1;}}
     }
 
+    
+
     static public void matriz_u2(int n){ // abajo -> derecha -> arriba
         int c = 1,i,j,k,ls = n;
         for(k = 1; k <= n/2; k++){

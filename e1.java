@@ -20,7 +20,7 @@ public class e1{
     static public void caracol(int n){
         int c = 1, li = 1, ls = n,i,j;
         for(int k = 1; k<=n/2; k++){
-            i = li;
+            i = li;  
             for(j = li; j<=ls;j++){v[i][j] = c; c = c + 1;}
             j = ls;
             for(i=li+1; i<=ls; i++){v[i][j] = c; c = c + 1;}
@@ -32,6 +32,8 @@ public class e1{
         }
         if( n % 2 == 1 ){ v[(int) n / 2 + 1][(int) n / 2 + 1] = c;}
     }
+
+    
 
 
     public static void main(String[] args) {

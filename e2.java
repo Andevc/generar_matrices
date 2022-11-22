@@ -25,6 +25,7 @@ public class e2 {
             for(j = k-1; j>= 1; j--){v[i][j] = c;c = c+1;}
         }
     }
+    
     static public void ele2(int n){
         int c = 1,j,i,k,li = 1;
         for(k=n; k>=1; k--){

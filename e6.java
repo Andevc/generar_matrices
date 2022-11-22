@@ -15,6 +15,8 @@ public class e6 {
         System.out.println("\n");
     }
 
+
+    
     static public void rombo_1(int n){
         int c = 1, i , j ,ls=n/2+1,li = n/2+1, x = 1;
         for(i=1;i<=n; i++){

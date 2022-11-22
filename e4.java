@@ -16,6 +16,8 @@ public class e4 {
         System.out.println("\n");
     }
 
+    
+
     static public void matrizx1(int n){  //izq -> der <-  
         int c = 1,i,j;
         for(i = 1; i <= n; i++){v[i][i] = c; c = c + 1;}

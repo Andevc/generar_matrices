@@ -44,6 +44,8 @@ public class e9{
     }
 
 
+
+    
     static public void diagonal_superior(int n){
         int c=1, i,j=1,li=1,ls=n,k;
         for(k = 1; k <= n; k++){

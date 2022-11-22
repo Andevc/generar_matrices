@@ -19,6 +19,8 @@ public class e5 {
         System.out.println("\n");
     }
 
+    
+
     static public void caracol_1(int n){
         int c = 1, li = 1, ls = n,i,j;
         for(int k = 1; k<=n/2; k++){

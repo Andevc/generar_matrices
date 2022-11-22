@@ -33,6 +33,8 @@ public class e8 {
         }
 
     }
+
+    
     
     static public void tiro_pares(int n){
         int c = 2,i,j,k,ls=n; 
